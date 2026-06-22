@@ -18,7 +18,7 @@
     </a>
   </p>
   <p>
-    🎮 在线演示：<a href="https://img.bsgun.cn" target="_blank">https://img.bsgun.cn</a>
+    🎮 在线演示：<a href="https://images.bsgun.cn" target="_blank">https://images.bsgun.cn</a>
   </p>
 </div>
 
